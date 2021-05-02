@@ -1,0 +1,8 @@
+[caps]
+automationName = "UiAutomator2"
+platformName = "Android"
+deviceName = "Emulator2"
+udid = "emulator-5554"
+app = "C:\\workspace\\TwitterMobile\\twitter\\app\\twitter.android_v8.91.0-release.00.apk"
+appPackage = "com.twitter.android"
+appActivity = "com.twitter.android.StartActivity"
