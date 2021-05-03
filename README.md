@@ -2,19 +2,6 @@
 
 Twitter project for test automation, covering performance, UI acceptance, API acceptance testing and security testing. 
 
-## Concepts Included
-
-- Parallel test runs
-- Shared state across cucumber step definitions
-- Dependency injection
-- Page Object pattern
-- Common web page interaction methods
-- Common api interaction methods
-- Mavenised performance tests
-- Externalised test configuration
-- Commonly used test utility classes
-- Simple security tests
-
 ## Tools
 
 - Android Studio
